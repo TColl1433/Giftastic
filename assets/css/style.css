@@ -1,0 +1,32 @@
+
+        button,
+        div,
+        form,
+        input {
+            margin: 10px;
+        }
+    
+    
+       .container{
+           position: relative;
+           align-self: center;
+        }
+
+        .card-body{
+            background-color: lightgrey;
+            
+            padding: 2px;
+            float: right;
+           
+        }
+
+        body{
+            background-color: rgb(224, 237, 255);
+        }
+
+        .jumbotron{
+            color: darkblue;
+            background-color: lightskyblue;
+        }
+
+        
